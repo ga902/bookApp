@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  authir: MyString
+  pdate: 2023-06-10
+
+two:
+  name: MyString
+  authir: MyString
+  pdate: 2023-06-10
